@@ -18,7 +18,7 @@ Desenvolvido em resposta a um dos desafios da Stade 02 do curso Explorer da Rock
 <br>
 
 <p align="center">
-  <img alt="Projeto Treine.me" src="./images/preview.svg" width="100%">
+  <img alt="Projeto Treine.me" src="./images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
