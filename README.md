@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-O conhecimento Liberta 📚: 
+O conhecimento Liberta 📚
