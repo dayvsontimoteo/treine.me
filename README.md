@@ -1,7 +1,7 @@
 <h1 align="center"> Treine.Me </h1>
 
 <p align="center">
-Desenvolvido em resposta a um dos desafios da Stade 02 do curso Explorer da Rocketseat.
+Desenvolvido em resposta a um dos desafios da Stage 02 do curso Explorer da Rocketseat.
 </p>
 
 <p align="center">
