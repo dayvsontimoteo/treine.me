@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito durante o Discovery da Rocketseat :wave: 
+O conhecimento Liberta 📚: 
